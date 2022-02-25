@@ -1,0 +1,23 @@
+h1{
+	color: brown;
+}
+
+img{
+	width: 400px;
+}
+
+#TercerDIV{
+	height: 600px;
+	width: 500px;
+	background-color: burlywood;
+	padding: 10px;
+	border: 10px solid bisque;
+	/*margin: 50px;*/
+	margin: 50px;
+}
+
+#idspan{
+	font-size: 18px;
+	margin: 10px;
+}
+
